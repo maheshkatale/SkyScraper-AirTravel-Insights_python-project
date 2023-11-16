@@ -1,0 +1,399 @@
+,Airline,Overall Rating,Reviews,Boarding,Comfort,Crew,Entertainment,Food
+1,Lufthansa,6.3 Good,3957,6.6,6.4,7.3,6.2,5.9
+2,KLM,7.1 Good,817,7.1,7.0,7.9,6.8,6.8
+3,British Airways,6.1 Good,3812,6.4,6.3,7.3,6.0,5.9
+4,SWISS,7.1 Good,1090,7.2,6.9,8.1,6.8,7.0
+5,Delta,7.3 Good,5706,7.6,7.3,8.2,7.5,6.8
+6,Turkish Airlines,6.9 Good,2089,6.9,6.9,7.4,7.2,7.1
+7,Air France,6.9 Good,984,6.9,6.9,7.9,6.6,6.7
+8,Qatar Airways,7.3 Good,2154,7.5,7.4,8.0,7.4,7.1
+9,United Airlines,6.6 Good,6031,7.1,6.5,7.6,6.4,6.0
+10,Emirates,7.7 Good,1930,7.8,7.7,8.0,8.1,7.5
+11,Iberia,6.1 Good,1480,6.4,6.0,7.0,6.0,5.5
+12,Austrian Airlines,6.6 Good,479,6.8,6.6,7.4,6.1,6.2
+13,Air Canada,6.1 Good,3203,6.5,6.3,7.3,6.2,5.5
+14,Singapore Airlines,7.7 Good,740,8.0,7.7,8.4,7.8,7.3
+15,Brussels Airlines,6.5 Good,312,6.7,6.5,7.6,5.9,6.0
+16,Finnair,7.1 Good,636,7.1,6.9,7.7,6.4,6.3
+17,Scandinavian Airlines,6.6 Good,666,7.0,6.8,7.6,6.3,6.2
+18,Etihad Airways,6.7 Good,696,6.8,6.7,7.2,6.7,6.5
+19,TAP AIR PORTUGAL,6.3 Good,1174,6.2,6.4,7.2,5.8,5.8
+20,Ethiopian Air,6.9 Good,398,7.0,7.0,7.4,6.4,6.6
+21,Alaska Airlines,7.4 Good,4621,7.7,7.4,8.2,6.8,6.8
+22,LOT,6.4 Good,798,6.5,6.6,7.4,6.1,6.1
+23,Cathay Pacific,7.1 Good,698,7.4,7.2,7.6,7.4,6.8
+24,Spirit Airlines,"Based on 5,159 reviews",62,5.3,6.7,4.4,4.5,
+25,Ryanair,"Based on 3,120 reviews",58,5.7,6.8,4.8,5.2,
+26,JetBlue,6.9 Good,3290,7.2,7.3,7.8,6.8,6.6
+27,Malaysia Airlines,6.7 Good,240,7.0,6.7,7.6,6.1,6.2
+28,ITA Airways,Based on 387 reviews,61,6.0,6.8,5.6,5.3,
+29,ANA,8.0 Excellent,461,8.2,7.8,8.6,7.7,7.4
+30,Korean Air,8.2 Excellent,597,8.5,8.0,8.7,7.9,7.9
+31,Japan Airlines,7.9 Good,726,8.1,8.0,8.5,7.6,7.7
+32,Aeromexico,6.8 Good,1582,6.9,7.0,7.5,6.8,6.3
+33,Avianca,6.8 Good,2132,7.0,6.8,7.4,6.3,5.8
+34,Frontier,"Based on 3,039 reviews",60,5.1,6.7,4.2,4.4,
+35,Thai Airways,7.3 Good,316,7.5,7.2,8.1,6.6,6.9
+36,LATAM Airlines,6.7 Good,1387,6.8,6.7,7.5,6.4,6.1
+37,China Eastern,6.4 Good,514,6.8,6.5,7.0,6.2,5.8
+38,China Southern,7.3 Good,257,7.7,7.3,7.9,7.0,6.7
+39,Aer Lingus,6.5 Good,823,6.7,6.5,7.5,6.5,6.1
+40,Air China,6.2 Good,420,6.6,6.2,7.1,5.8,5.7
+41,Egypt Air,6.7 Good,403,7.0,6.7,7.3,5.8,6.5
+42,Asiana Airlines,8.0 Excellent,354,8.2,7.9,8.5,7.5,7.7
+43,Air India,"Based on 1,764 reviews",58,5.0,6.2,4.0,5.3,
+44,Air Serbia,6.1 Good,116,6.1,6.6,7.2,5.5,5.7
+45,Air Europa,6.0 Good,407,6.3,6.1,6.9,5.9,5.6
+46,Pegasus Airlines,6.0 Good,321,6.1,5.8,6.8,5.0,5.3
+47,easyJet,6.2 Good,1652,6.0,6.3,7.4,5.0,5.5
+48,China Airlines,7.8 Good,424,8.0,7.5,8.3,7.7,7.2
+49,Gulf Air,6.8 Good,140,7.0,7.1,7.2,6.4,6.2
+50,Copa Airlines,7.2 Good,1711,7.6,7.2,7.9,6.7,6.8
+51,Royal Air Maroc,Based on 468 reviews,55,5.6,6.3,5.4,5.5,
+52,EVA Air,8.0 Excellent,757,8.2,8.0,8.4,7.8,7.6
+53,Qantas Airways,7.2 Good,645,7.4,7.0,8.1,7.2,6.8
+54,airBaltic,6.7 Good,88,7.0,6.8,7.7,6.3,6.5
+55,Philippine Airlines,6.8 Good,786,6.7,6.8,7.7,6.5,6.5
+56,Eurowings,Based on 220 reviews,62,5.8,6.9,5.0,5.1,
+57,Icelandair,6.5 Good,892,6.5,6.3,7.6,6.7,5.4
+58,GOL,6.5 Good,741,6.5,6.7,7.7,5.8,5.6
+59,Norwegian,Based on 674 reviews,59,5.8,6.5,5.8,4.7,
+60,SAUDIA,6.5 Good,451,6.7,6.7,7.3,6.3,6.4
+61,Kuwait Airways,6.7 Good,202,6.8,7.0,7.0,6.2,6.4
+62,Vietnam Airlines,7.1 Good,191,7.2,7.3,7.9,6.3,6.7
+63,SriLankan Airlines,6.9 Good,78,7.0,6.8,7.5,6.5,6.8
+64,Aegean Airlines,7.0 Good,354,6.8,7.0,7.8,6.2,6.8
+65,American Airlines,6.4 Good,8157,6.8,6.4,7.5,6.3,5.9
+66,Garuda Indonesia,7.0 Good,63,7.3,7.4,7.9,6.8,6.8
+67,XiamenAir,6.7 Good,65,7.1,7.2,7.5,6.4,6.4
+68,Batik Air,6.7 Good,24,7.2,6.4,7.3,5.0,5.2
+69,Scoot,Based on 187 reviews,63,5.7,6.8,4.5,5.0,
+70,Sun Country Air,6.4 Good,474,6.9,6.2,7.5,5.1,5.4
+71,Transavia France,6.1 Good,159,6.0,6.1,7.2,5.1,5.4
+72,Virgin Atlantic,7.2 Good,491,7.4,6.9,8.0,7.2,6.6
+73,Vueling,Based on 785 reviews,60,5.9,6.9,4.9,5.2,
+74,Royal Jordanian,6.3 Good,287,6.7,6.3,6.8,6.0,5.9
+75,VietJet Air,Based on 56 reviews,53,5.2,6.5,3.8,4.2,
+76,Kenya Airways,6.8 Good,254,6.9,6.8,7.3,6.3,6.3
+77,Azores Airlines,Based on 44 reviews,55,6.0,7.3,3.1,5.7,
+78,Vistara,7.3 Good,103,7.8,7.8,7.9,6.6,7.2
+79,Condor,Based on 228 reviews,58,5.7,6.7,5.4,5.7,
+80,Luxair,6.9 Good,32,6.8,6.6,7.3,6.4,6.8
+81,VivaAerobus,6.2 Good,556,6.3,6.2,7.1,5.1,5.4
+82,WestJet,6.9 Good,1677,7.2,6.9,7.9,5.9,6.0
+83,Air Arabia,7.3 Good,24,7.3,8.0,8.2,6.6,6.9
+84,flydubai,Based on 94 reviews,58,5.4,6.7,4.7,5.2,
+85,Air Algerie,6.0 Good,16,6.2,5.7,6.7,4.9,5.7
+86,Air New Zealand,7.7 Good,388,7.9,7.7,8.5,7.6,7.3
+87,TAROM,6.6 Good,84,6.9,6.9,7.5,5.4,6.0
+88,Aerolineas Argentinas,7.2 Good,539,7.4,7.1,7.9,5.6,6.0
+89,Air India Express,Based on 7 reviews,42,5.1,5.7,3.9,4.9,
+90,EL AL,7.0 Good,332,7.1,6.7,8.0,6.5,6.7
+91,Thai Lion Air,6.2 Good,24,6.2,5.7,7.3,5.6,5.8
+92,Air Malta,6.3 Good,45,6.5,6.6,7.2,4.7,5.4
+93,MEA,7.8 Good,103,8.3,7.6,8.4,7.5,7.5
+94,SpiceJet,Based on 92 reviews,51,5.0,6.4,4.1,4.5,
+95,Thai AirAsia,6.6 Good,172,7.1,6.1,7.5,4.9,5.6
+96,Croatia Airlines,6.4 Good,70,6.6,6.3,7.0,5.3,5.6
+97,Azul,7.4 Good,493,7.5,7.5,8.4,7.2,6.9
+98,AirAsia,Based on 155 reviews,62,5.9,6.8,4.7,5.5,
+99,Hawaiian Airlines,7.5 Good,1279,7.8,7.4,8.5,6.8,6.8
+100,AirAsia India,6.3 Good,10,6.2,6.6,7.4,6.2,6.6
+101,Porter Airlines,6.6 Good,290,6.7,6.9,7.8,5.7,6.9
+102,Air Transat,6.7 Good,276,7.0,6.2,7.8,6.0,5.9
+103,Shanghai Airlines,Based on 41 reviews,56,4.9,6.0,4.5,4.8,
+104,Batik Air,Based on 10 reviews,68,5.2,6.2,3.8,4.4,
+105,Jetstar,6.1 Good,513,6.4,6.0,6.9,4.7,5.2
+106,Bangkok Airways,7.9 Good,165,8.2,8.1,8.7,6.5,7.5
+107,South African,7.0 Good,151,7.2,7.0,7.9,5.7,6.9
+108,Tunisair,Based on 73 reviews,53,5.4,6.1,4.5,5.1,
+109,T'way Air,6.1 Good,7,6.5,6.0,6.8,3.6,5.6
+110,HK Express,Based on 38 reviews,63,5.7,6.2,4.7,4.5,
+111,Jeju Air,7.9 Good,12,8.1,7.5,8.8,5.1,4.6
+112,Flair Airlines,Based on 103 reviews,61,5.5,6.7,3.9,4.2,
+113,FlySafair,7.7 Good,36,7.8,7.4,8.4,6.0,6.4
+114,Transavia,6.5 Good,94,6.8,6.4,7.5,5.5,5.9
+115,Hong Kong Airlines,6.7 Good,257,7.0,6.8,7.4,6.6,6.1
+116,JetSMART,Based on 56 reviews,52,5.0,6.0,3.7,3.7,
+117,Air Astana,6.9 Good,30,6.6,7.4,7.6,5.6,7.4
+118,Air Macau,6.8 Good,9,7.3,7.1,8.4,5.5,6.5
+119,Virgin Australia,7.0 Good,442,7.4,7.1,8.1,6.4,6.2
+120,Cebu Pacific,6.0 Good,143,6.2,6.0,7.0,4.6,5.2
+121,Wizz Air Malta,Based on 58 reviews,54,5.8,6.4,4.6,5.1,
+122,Cemair,Based on 4 reviews,60,6.0,8.0,2.5,4.0,
+123,Oman Air,7.3 Good,68,7.7,7.3,7.7,7.1,7.0
+124,AirAsia X,Based on 41 reviews,66,5.7,7.2,4.0,4.6,
+125,Fiji Airways,7.2 Good,151,7.3,7.3,8.0,6.6,6.9
+126,Allegiant Air,6.7 Good,597,7.2,6.3,7.8,5.0,5.4
+127,Sky Airline,Based on 91 reviews,59,5.5,6.7,4.7,4.6,
+128,Sky Express,6.6 Good,62,6.4,6.9,7.6,5.6,5.5
+129,Juneyao Airlines,Based on 10 reviews,60,4.8,5.2,2.0,3.2,
+130,Jin Air,7.2 Good,22,7.8,6.5,8.3,6.5,6.7
+131,Air Mauritius,6.7 Good,17,7.1,7.5,8.1,6.0,7.0
+132,Pakistan International Airlines,Based on 16 reviews,47,4.5,5.2,4.0,4.7,
+133,Royal Brunei Airlines,7.6 Good,14,8.2,6.8,8.2,7.2,7.0
+134,Cebgo,Based on 18 reviews,55,4.8,5.6,4.4,4.5,
+135,Firefly,7.7 Good,7,7.4,8.0,7.7,6.0,6.2
+136,Iberia Express,Based on 57 reviews,62,5.9,7.0,5.5,5.2,
+137,Hainan Airlines,7.0 Good,79,7.1,7.2,7.7,7.1,6.7
+138,Uzbekistan Airways,6.3 Good,19,6.3,7.1,7.0,5.4,6.4
+139,Jazeera Airways,6.2 Good,14,6.1,5.8,7.0,5.6,5.0
+140,Smartwings,Based on 21 reviews,54,5.7,6.8,4.7,5.6,
+141,Air Tahiti Nui,8.4 Excellent,48,8.6,8.1,8.8,8.0,8.1
+142,Volotea,6.1 Good,214,5.9,6.3,7.0,5.4,5.5
+143,Thai Vietjet Air,6.0 Good,49,6.1,5.7,7.0,5.0,5.5
+144,French Bee,Based on 17 reviews,57,5.9,6.8,6.7,5.5,
+145,Biman Bangladesh,6.9 Good,9,6.8,7.5,7.7,6.4,7.3
+146,Air Busan,Based on 13 reviews,64,6.1,6.9,4.2,4.7,
+147,Bulgaria Air,6.3 Good,39,6.3,5.7,7.0,5.4,6.5
+148,Jetstar Japan,Based on 76 reviews,61,5.9,6.7,4.7,5.1,
+149,Azerbaijan Airlines,7.6 Good,8,8.0,8.2,8.0,8.0,7.1
+150,Peach,7.1 Good,23,7.0,6.6,7.6,6.2,5.5
+151,BoA,6.0 Good,65,6.4,6.1,7.1,4.1,5.2
+152,MIAT Mongolian,7.4 Good,19,8.3,6.9,9.0,5.6,6.6
+153,Wingo,7.3 Good,103,7.2,7.2,7.8,6.1,6.5
+154,Corsair,6.9 Good,24,6.9,6.9,8.0,6.0,7.1
+155,Air Caraïbes,6.7 Good,19,6.4,8.1,8.3,7.6,7.6
+156,IndiGo,6.7 Good,245,6.8,6.7,7.4,5.6,6.2
+157,MAI,10.0 Excellent,3,10.0,10.0,10.0,7.3,6.6
+158,La Compagnie,8.0 Excellent,4,9.5,8.0,9.0,8.0,7.5
+159,Nouvelair,Based on 18 reviews,54,5.8,6.2,4.8,4.8,
+160,US-Bangla Airlines,,,,,,,
+161,Caribbean Airlines,7.2 Good,93,7.7,7.1,7.7,5.7,5.8
+162,TAAG,Based on 16 reviews,45,5.0,6.2,3.4,5.3,
+163,Tigerair Taiwan,6.8 Good,5,8.0,6.8,8.8,5.2,4.8
+164,Jet2,7.9 Good,66,7.4,7.4,8.6,5.8,7.0
+165,Czech Airlines,Based on 90 reviews,53,5.2,6.4,4.8,4.9,
+166,Salam Air,6.6 Good,6,6.6,6.6,6.6,5.3,6.6
+167,Volaris Costa Rica,7.2 Good,42,7.3,6.9,7.8,5.4,5.6
+168,Citilink,8.1 Excellent,4,7.5,9.0,9.5,8.0,7.5
+169,Indonesia AirAsia,6.3 Good,46,6.3,6.2,6.7,5.1,5.9
+170,Air Seoul,7.1 Good,14,8.2,6.7,7.5,6.1,6.3
+171,Shandong Airlines,6.5 Good,2,7.0,6.0,9.0,4.0,5.0
+172,Air Cairo,Based on 13 reviews,52,5.3,6.4,4.1,4.9,
+173,Wizz Air,Based on 536 reviews,57,5.9,6.9,4.7,5.1,
+174,RwandAir,6.8 Good,18,7.1,6.8,7.3,5.7,6.3
+175,Skymark Airlines,7.6 Good,9,8.8,6.6,8.6,5.6,6.0
+176,Air Botswana,Based on 4 reviews,55,4.5,4.5,4.6,4.0,
+177,Cyprus Airways,Based on 7 reviews,33,6.3,6.6,2.3,2.6,
+178,Nok Air,6.6 Good,41,6.8,6.7,6.9,5.6,5.4
+179,Air Dolomiti,6.5 Good,55,6.3,6.8,7.3,6.6,6.5
+180,flyadeal,Based on 29 reviews,55,4.8,6.0,4.5,5.0,
+181,fastjet,7.3 Good,3,7.3,8.0,8.6,6.6,7.3
+182,Flybondi,Based on 64 reviews,61,5.5,7.2,3.5,3.8,
+183,Air Senegal,6.6 Good,30,5.6,6.4,6.8,5.9,6.6
+184,Air Côte d’Ivoire,6.4 Good,5,7.2,7.2,7.2,6.0,6.0
+185,Lion Air,6.1 Good,16,6.3,6.2,7.6,5.7,6.2
+186,Cambodia Angkor Air,Based on 22 reviews,57,5.8,6.7,4.2,4.7,
+187,ASKY,6.8 Good,35,6.7,6.8,7.1,6.3,6.8
+188,Loganair,7.1 Good,7,7.6,7.6,9.6,6.0,6.0
+189,Nile Air,Based on 10 reviews,48,4.2,5.2,3.2,4.2,
+190,Plus Ultra,6.5 Good,14,6.4,6.0,7.5,4.5,6.0
+191,Air Niugini,6.3 Good,1,8.0,2.0,8.0,8.0,8.0
+192,Lao Airlines,8.9 Excellent,14,9.4,8.5,9.7,7.2,8.3
+193,Nepal Airlines,Based on 13 reviews,46,4.6,6.0,5.8,5.8,
+194,Aircalin,7.3 Good,6,8.3,6.6,7.6,6.3,5.3
+195,TUI Fly Belgium,Based on 21 reviews,58,5.4,7.0,4.6,4.8,
+196,Sichuan Airlines,6.8 Good,30,7.5,6.8,8.2,6.2,6.5
+197,Myanmar National Airlines,8.6 Excellent,2,9.0,8.0,9.0,9.0,
+198,THAI Smile,8.0 Excellent,48,8.2,8.1,8.8,6.9,7.4
+199,Sunwing Airlines,6.0 Good,23,6.4,6.1,7.4,3.5,4.6
+200,Corendon Airlines,Based on 8 reviews,47,6.2,6.5,4.8,4.8,
+201,Thai AirAsia X,Based on 17 reviews,74,5.6,7.0,4.0,4.2,
+202,SunExpress,6.1 Good,82,6.3,6.0,7.4,4.7,5.2
+203,Philippines AirAsia,Based on 103 reviews,58,5.8,6.5,5.1,5.4,
+204,Spring Airlines,Based on 4 reviews,55,3.5,6.0,3.5,5.0,
+205,Eastar Jet,6.5 Good,18,6.8,6.5,7.4,5.2,6.5
+206,Alliance Air,Based on 14 reviews,54,6.2,6.8,5.2,6.3,
+207,BA Euroflyer,,,,,,,
+208,Animawings,Based on 0 reviews,,,,,,
+209,HOP!,7.0 Good,24,7.0,6.8,7.5,6.1,6.7
+210,Calafia Airlines,,,,,,,
+211,Georgian Airways,7.1 Good,7,7.4,6.0,8.5,5.4,5.7
+212,Mandarin Airlines,6.9 Good,4,7.0,7.0,7.5,6.0,5.0
+213,Advanced Air,,,,,,,
+214,Albastar,,,,,,,
+215,9 Air,8.0 Excellent,1,6.0,10.0,10.0,,
+216,Bhutan Airlines,,,,,,,
+217,UNI AIR,9.4 Excellent,8,9.2,9.5,9.5,8.0,8.5
+218,AWA,6.1 Good,2,5.0,6.0,7.0,8.0,7.0
+219,Iran Air Tours,,,,,,,
+220,Okay Airways,Based on 0 reviews,,,,,,
+221,Pacific Airlines,Based on 28 reviews,53,5.0,6.1,3.8,3.7,
+222,Trade Air,Based on 0 reviews,,,,,,
+223,BlueBird Airways,Based on 7 reviews,37,5.4,6.8,3.7,3.7,
+224,CM Airlines,8.2 Excellent,3,8.6,7.3,8.6,10.0,8.0
+225,Chalair Aviation,,,,,,,
+226,Grand China Air,Based on 0 reviews,,,,,,
+227,Coastal,,,,,,,
+228,AirAsia Japan,,,,,,,
+229,Pobeda,Based on 5 reviews,48,4.8,5.6,4.0,4.6,
+230,Alexandria Airlines,,,,,,,
+231,Ruili Airlines,,,,,,,
+232,Air Arabia,6.6 Good,3,8.0,7.3,8.6,7.3,6.6
+233,SCAT Airlines,6.0 Good,2,6.0,7.0,8.0,6.0,6.0
+234,DAT,8.5 Excellent,4,8.0,9.0,9.5,8.5,9.0
+235,Iberojet,Based on 7 reviews,42,4.3,5.0,4.0,5.3,
+236,Ernest Airlines,,,,,,,
+237,Iran Aseman Airlines,,,,,,,
+238,Air Flamenco,,,,,,,
+239,Chengdu Airlines,,,,,,,
+240,Link Airways,Based on 0 reviews,,,,,,
+241,China Express Airlines,,,,,,,
+242,FlyEgypt,,,,,,,
+243,Fuzhou Airlines,,,,,,,
+244,IBEX Airlines,Based on 0 reviews,,,,,,
+245,Loong Air,,,,,,,
+246,Air Greenland,8.0 Excellent,2,8.0,7.0,10.0,8.0,8.0
+247,Chair,8.0 Excellent,1,10.0,8.0,10.0,2.0,2.0
+248,APG Airlines,,,,,,,
+249,Aurigny Air,6.9 Good,5,7.6,6.4,8.0,6.0,6.0
+250,Tianjin Airlines,Based on 0 reviews,,,,,,
+251,Grant Aviation,6.0 Good,1,6.0,2.0,6.0,10.0,
+252,GX Airlines,,,,,,,
+253,Himalaya Airlines,,,,,,,
+254,Colorful Guizhou Airlines,,,,,,,
+255,Air Do,8.1 Excellent,2,8.0,10.0,10.0,4.0,7.0
+256,Air Seychelles,Based on 5 reviews,50,4.5,4.8,4.0,4.0,
+257,Iraqi Airways,,,,,,,
+258,Solomon Airlines,Based on 0 reviews,,,,,,
+259,Fly Baghdad,Based on 1 reviews,20,2.0,2.0,2.0,2.0,
+260,SPRING JAPAN,,,,,,,
+261,NAM Air,Based on 0 reviews,,,,,,
+262,Qazaq Air,,,,,,,
+263,Sepehran Airlines,,,,,,,
+264,Alaska Seaplanes,,,,,,,
+265,Afrijet,Based on 0 reviews,,,,,,
+266,Wings Air,Based on 3 reviews,46,6.0,6.0,6.0,6.0,
+267,Arkia,Based on 17 reviews,57,5.6,6.5,3.6,3.7,
+268,Japan Air Commuter,Based on 0 reviews,,,,,,
+269,Beijing Capital Airlines,Based on 1 reviews,20,6.0,6.0,2.0,2.0,
+270,Fuji Dream Airlines,,,,,,,
+271,Jambojet,7.0 Good,9,6.6,6.4,6.8,5.7,5.3
+272,Safe Air Company,,,,,,,
+273,Joy Air,,,,,,,
+274,Air KBZ,Based on 0 reviews,,,,,,
+275,Bearskin Airlines,,,,,,,
+276,interCaribbean Airways,Based on 22 reviews,51,5.5,6.8,3.4,3.1,
+277,Drukair,,,,,,,
+278,Air Belgium,Based on 15 reviews,58,5.7,7.0,5.8,5.4,
+279,China United Airlines,Based on 0 reviews,,,,,,
+280,Air Connect,7.3 Good,2,7.0,8.0,9.0,6.0,8.0
+281,Mauritania Airlines,6.0 Good,6,6.0,5.6,6.3,5.3,5.3
+282,Cayman Airways,7.6 Good,16,7.5,8.0,8.7,6.0,6.0
+283,Kunming Airlines,,,,,,,
+284,Contour,7.1 Good,18,7.2,6.8,7.5,5.8,6.4
+285,ETF Airways,7.0 Good,15,7.2,6.6,7.3,7.1,7.1
+286,Lao Skyway,,,,,,,
+287,Lanmei Airlines,7.7 Good,6,7.6,8.3,8.6,6.0,7.3
+288,Air Madagascar,7.6 Good,8,7.5,8.2,7.5,7.4,7.2
+289,Freebird Airlines Europe,6.6 Good,46,6.9,6.6,7.5,5.6,6.1
+290,Hunnu Air,,,,,,,
+291,Amakusa Airlines,,,,,,,
+292,Nesma Airlines,Based on 0 reviews,,,,,,
+293,Air Vanuatu,7.0 Good,4,6.0,6.0,6.0,2.6,4.6
+294,Neos Air,9.0 Excellent,22,8.2,8.8,9.0,7.7,8.5
+295,Hebei Airlines,,,,,,,
+296,Binter Canarias,8.5 Excellent,17,7.8,9.1,8.9,8.7,8.9
+297,Japan Transocean Air,10.0 Excellent,2,10.0,10.0,10.0,10.0,10.0
+298,Olympic Air,7.6 Good,83,7.1,7.8,8.5,6.4,7.1
+299,Oriental Air Bridge,Based on 0 reviews,,,,,,
+300,Nauru Airlines,,,,,,,
+301,Proflight Zambia,,,,,,,
+302,Airkenya,,,,,,,
+303,TUI Nederland,Based on 6 reviews,60,5.0,6.0,8.0,5.6,
+304,Air Peace,Based on 3 reviews,40,6.0,7.3,3.3,3.3,
+305,Pascan,Based on 0 reviews,,,,,,
+306,Skyward Express,8.0 Excellent,1,8.0,8.0,8.0,4.0,2.0
+307,airblue,,,,,,,
+308,PAL Airlines,9.0 Excellent,2,9.0,9.0,9.0,8.0,8.0
+309,People's,Based on 0 reviews,,,,,,
+310,Air St. Pierre,,,,,,,
+311,Canaryfly,6.6 Good,3,5.3,5.3,7.3,2.0,6.0
+312,China West Air,Based on 0 reviews,,,,,,
+313,Island Aviation Services,,,,,,,
+314,Ukraine International Airlines,Based on 231 reviews,58,5.3,6.4,4.9,4.8,
+315,St Barth Commuter,Based on 0 reviews,,,,,,
+316,Trans Air Congo (TAC),,,,,,,
+317,Precision Air,Based on 9 reviews,44,6.8,7.3,4.2,4.7,
+318,Surinam Airways,Based on 8 reviews,60,5.0,6.0,4.5,5.2,
+319,Qeshm Air,,,,,,,
+320,Camair-Co,,,,,,,
+321,Alliance Airlines,Based on 1 reviews,60,6.0,4.0,,,
+322,Transair,Based on 0 reviews,,,,,,
+323,Jordan Aviation,,,,,,,
+324,Qingdao Airlines,,,,,,,
+325,Atlantic Airways,8.9 Excellent,4,8.5,9.0,9.5,10.0,9.0
+326,Aircompany Armenia,,,,,,,
+327,Kam Air,6.1 Good,6,6.0,6.0,6.6,5.0,6.0
+328,Sunrise Airways,Based on 0 reviews,,,,,,
+329,Sounds Air,,,,,,,
+330,Royal Air Charter,,,,,,,
+331,Jiangxi Air,,,,,,,
+332,Albawings,Based on 4 reviews,60,5.0,5.0,5.0,5.0,
+333,Tassili Airlines,,,,,,,
+334,Sharp Airlines,,,,,,,
+335,Sriwijaya Air,Based on 0 reviews,,,,,,
+336,Helvetic Airways,6.1 Good,14,6.1,6.5,6.5,6.0,6.6
+337,SATA Air Acores,6.4 Good,11,6.3,7.0,8.1,6.4,6.2
+338,Sundair,,,,,,,
+339,Turkmenistan Airlines,Based on 0 reviews,,,,,,
+340,AirSWIFT,8.0 Excellent,4,7.0,7.5,8.0,4.5,3.0
+341,TWIN JET,,,,,,,
+342,Somon Air,Based on 0 reviews,,,,,,
+343,Avianca,7.0 Good,299,7.4,7.1,7.6,6.5,6.4
+344,Air Tanzania,7.9 Good,7,6.5,8.0,8.0,7.4,8.0
+345,Braathens Regional Aviation,6.8 Good,3,8.6,6.0,7.3,6.0,6.0
+346,FLYONE Armenia,,,,,,,
+347,Air Inuit,,,,,,,
+348,Tradewind,,,,,,,
+349,Airnorth,8.0 Excellent,2,8.0,8.0,9.0,4.0,
+350,Jetstar Asia,6.3 Good,133,7.0,5.9,7.5,4.9,5.5
+351,LAM,Based on 6 reviews,64,5.6,6.8,4.4,6.0,
+352,Silver Airways,Based on 195 reviews,59,5.7,6.6,4.7,4.6,
+353,Air Arabia Maroc,6.0 Good,22,6.6,5.7,6.6,4.9,5.2
+354,Buddha Air,8.0 Excellent,1,8.0,8.0,10.0,4.0,6.0
+355,Tibet Airlines,6.3 Good,2,8.0,6.0,8.0,5.0,4.0
+356,TUS Airways,7.3 Good,3,7.3,10.0,10.0,8.6,8.6
+357,Tunisair Express,Based on 7 reviews,54,5.4,6.2,4.3,4.5,
+358,Auric Air,,,,,,,
+359,Air Zimbabwe,Based on 0 reviews,,,,,,
+360,Air North,9.3 Excellent,9,8.8,8.4,9.1,5.7,6.8
+361,Air Montenegro,6.0 Good,850,6.1,6.6,7.0,4.9,5.5
+362,Bahamasair,Based on 71 reviews,56,5.1,6.4,4.0,4.6,
+363,Urumqi Air,,,,,,,
+364,Air Austral,6.2 Good,11,6.1,6.7,8.0,5.6,6.0
+365,EF,6.6 Good,3,4.6,6.6,7.3,5.3,5.3
+366,FLYONE,Based on 4 reviews,35,3.5,3.5,3.5,3.5,
+367,ASL Airlines France,6.4 Good,6,6.6,5.3,7.3,6.4,4.6
+368,Cabo Verde Airlines,Based on 1 reviews,60,2.0,4.0,2.0,2.0,
+369,Canadian North,Based on 2 reviews,80,2.0,7.0,7.0,6.0,
+370,TAG Airlines,Based on 3 reviews,66,4.6,6.0,4.0,4.0,
+371,Wizz Air UK,Based on 59 reviews,52,5.3,6.3,3.5,4.5,
+372,Wideroe,7.1 Good,16,8.1,7.0,8.3,5.6,6.0
+373,ISRAIR,Based on 14 reviews,48,4.8,5.0,4.0,4.0,
+374,Alsie Express,Based on 0 reviews,,,,,,
+375,Solaseed Air,6.0 Good,2,6.0,6.0,6.0,6.0,6.0
+376,Edelweiss Air,6.9 Good,43,7.0,7.3,8.0,6.8,7.0
+377,Winair,7.3 Good,2,7.0,7.0,8.0,6.0,
+378,TUI fly,6.0 Good,15,6.2,6.1,7.0,4.6,5.4
+379,Western Air,,,,,,,
+380,Star Flyer,6.5 Good,3,5.3,7.3,7.3,7.3,5.3
+381,Ravn Alaska,7.6 Good,9,7.9,6.6,8.6,5.9,6.7
+382,Air Corsica,7.4 Good,16,7.6,7.0,8.1,6.5,7.1
+383,Air Panama,10.0 Excellent,1,10.0,8.0,10.0,8.0,2.0
+384,Volaris,Based on 928 reviews,59,5.5,6.7,4.2,4.6,
+385,NokScoot,Based on 1 reviews,20,2.0,2.0,2.0,2.0,
+386,Suparna Airlines,,,,,,,
+387,flynas,Based on 46 reviews,52,4.6,6.3,3.5,4.4,
+388,TransNusa,,,,,,,
+389,Lucky Air,7.0 Good,1,10.0,8.0,10.0,2.0,4.0
+390,Regional Air,,,,,,,
+391,Pacific Coastal Airlines,6.8 Good,8,7.7,7.4,7.7,6.0,6.0
+392,Shenzhen Airlines,Based on 12 reviews,50,5.1,6.0,3.6,4.3,
+393,AIR CHANGAN,Based on 0 reviews,,,,,,
+394,Cape Air,9.1 Excellent,40,8.9,8.6,9.4,9.1,9.0
+395,Central Mountain Air,8.0 Excellent,1,8.0,8.0,8.0,8.0,8.0
+396,Tropic Air,7.0 Good,4,7.5,7.5,7.5,5.5,5.5
+397,SATENA,8.5 Excellent,6,7.6,8.6,10.0,5.9,5.9
+398,Southern / Mokulele,9.3 Excellent,8,9.2,9.0,9.7,9.6,9.5
